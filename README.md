@@ -26,5 +26,5 @@ Version control is an essential skill for **developers** to master, and Git is b
 
 > Plus, you'll [learn](https://linkedin.com) how to work with the popular GitHub website to explore existing projects, clone them to your local hard drive, and use them as templates for your new projects.
 
-https://linkedin.com
+
 ---
